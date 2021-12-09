@@ -10,9 +10,8 @@
 <body>
 <h1>영화정보</h1>
 <ul>
-	
-	<li>${vo.title}<a href="detail?mnum=${vo.mnum}">상세보기</a></li>
-	
+hello
+안녕
 </ul>
 </body>
 </html>
